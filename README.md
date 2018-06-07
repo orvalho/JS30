@@ -23,7 +23,7 @@ my atempt at 30 Day Vanilla JS Challenge created by [Wes Bos.](https://javascrip
 - [ ] 19. Unreal Webcam Fun
 - [ ] 20. Native Speech Recognition
 - [ ] 21. Geolocation based Speedometer and Compass
-- [ ] 22. Follow Along Links
+- [x] 22. Follow Along Links
 - [ ] 23. Speech Synthesis
 - [ ] 24. Sticky Nav
 - [x] 25. Event Capture, Propagation, Bubbling and Once
