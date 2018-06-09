@@ -1,5 +1,5 @@
 # JavaScript30
-my atempt at 30 Day Vanilla JS Challenge created by [Wes Bos.](https://javascript30.com/) 
+my attempt at 30 Day Vanilla JS Challenge created by [Wes Bos.](https://javascript30.com/) 
 
 
 - [ ] 1. JavaScript Drum Kit
@@ -8,7 +8,7 @@ my atempt at 30 Day Vanilla JS Challenge created by [Wes Bos.](https://javascrip
 - [ ] 4. Array Cardio Day 1
 - [ ] 5. Flex Panels Image Gallery
 - [ ] 6. Ajax Type Ahead
-- [ ] 7. Array Cardio Day 2
+- [x] 7. Array Cardio Day 2
 - [ ] 8. Fun with HTML5 Canvas
 - [ ] 9. 14 Must Know Dev Tools Tricks
 - [ ] 10. Hold Shift to Check Multiple Checkboxes
