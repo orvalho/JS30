@@ -25,7 +25,7 @@ my attempt at 30 Day Vanilla JS Challenge created by [Wes Bos.](https://javascri
 - [ ] 21. Geolocation based Speedometer and Compass
 - [x] 22. Follow Along Links
 - [ ] 23. Speech Synthesis
-- [ ] 24. Sticky Nav
+- [x] 24. Sticky Nav
 - [x] 25. Event Capture, Propagation, Bubbling and Once
 - [ ] 26. Stripe Follow Along Dropdown
 - [ ] 27. Click and Drag to Scroll
