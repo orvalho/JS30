@@ -3,7 +3,7 @@ my attempt at 30 Day Vanilla JS Challenge created by [Wes Bos.](https://javascri
 
 
 - [ ] 1. JavaScript Drum Kit
-- [ ] 2. CSS + JS Clock
+- [x] 2. CSS + JS Clock
 - [ ] 3. Playing with CSS Variables and JS
 - [ ] 4. Array Cardio Day 1
 - [ ] 5. Flex Panels Image Gallery
