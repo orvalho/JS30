@@ -18,7 +18,7 @@ my attempt at 30 Day Vanilla JS Challenge created by [Wes Bos.](https://javascri
 - [ ] 14. Object and Arrays - Reference VS Copy
 - [ ] 15. LocalStorage and Event Delegation
 - [ ] 16. CSS Text Shadow Mouse Move Effect
-- [ ] 17. Sorting Band Names without articles
+- [x] 17. Sorting Band Names without articles
 - [ ] 18. Tally String Times with Reduce
 - [ ] 19. Unreal Webcam Fun
 - [ ] 20. Native Speech Recognition
