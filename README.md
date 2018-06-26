@@ -17,7 +17,7 @@ my attempt at 30 Day Vanilla JS Challenge created by [Wes Bos.](https://javascri
 - [ ] 13. Slide In on Scroll
 - [ ] 14. Object and Arrays - Reference VS Copy
 - [ ] 15. LocalStorage and Event Delegation
-- [ ] 16. CSS Text Shadow Mouse Move Effect
+- [x] 16. CSS Text Shadow Mouse Move Effect
 - [x] 17. Sorting Band Names without articles
 - [ ] 18. Tally String Times with Reduce
 - [ ] 19. Unreal Webcam Fun
