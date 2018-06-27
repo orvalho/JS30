@@ -15,7 +15,7 @@ my attempt at 30 Day Vanilla JS Challenge created by [Wes Bos.](https://javascri
 - [ ] 11. Custom HTML5 Video Player
 - [x] 12. Key Sequence Detection (KONAMI CODE)
 - [ ] 13. Slide In on Scroll
-- [ ] 14. Object and Arrays - Reference VS Copy
+- [x] 14. Object and Arrays - Reference VS Copy
 - [ ] 15. LocalStorage and Event Delegation
 - [x] 16. CSS Text Shadow Mouse Move Effect
 - [x] 17. Sorting Band Names without articles
