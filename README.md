@@ -11,7 +11,7 @@ my attempt at 30 Day Vanilla JS Challenge created by [Wes Bos.](https://javascri
 - [x] 7. Array Cardio Day 2
 - [ ] 8. Fun with HTML5 Canvas
 - [x] 9. 14 Must Know Dev Tools Tricks
-- [ ] 10. Hold Shift to Check Multiple Checkboxes
+- [x] 10. Hold Shift to Check Multiple Checkboxes
 - [ ] 11. Custom HTML5 Video Player
 - [x] 12. Key Sequence Detection (KONAMI CODE)
 - [ ] 13. Slide In on Scroll
